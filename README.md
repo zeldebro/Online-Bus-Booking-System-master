@@ -1,2 +1,2 @@
-# Online-Bus-Booking-System-master
-Online Ticket Bucking master admin console 
+# Online-Bus-Booking-System
+HTML, CSS, PHP, MYSQL
